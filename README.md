@@ -20,9 +20,11 @@ The corpus of speeches breaks down as follows:
 **Number of Republicans**: 15, including 7 presidents and an additional 8 candidates who appeared in debates
 
 **Number of speeches by Democrats**: 322
+
 **Number of speeches by Republicans**: 227
 
 **Most speeches**: Lyndon B. Johnson (71), Ronald Reagan (60), Barack Obama (54)
+
 **Fewest speeches**: Dwight D. Eisenhower (6), Gerald Ford (17), Harry S. Truman (19)
 
 ![Speeches per Speaker](/img/speeches_by_pres.png)
