@@ -2,6 +2,7 @@
 ## by Anne Barry
 
 **Background and Essential Question**
+
 Which political party comes to mind with the words “federal reserve”? “Social security”? “God Bless America"?  Over the last two weeks, we heard many speeches given at both the Democratic and Republican National Conventions.  Pundits don’t always agree, but what they did agree on was that each party’s convention differed in theme and tone, sometimes to a dangerous degree.  [“Nikki Haley defends darker tone of Republican National Convention](https://www.cbsnews.com/news/trump-nikki-haley-republican-national-convention/),” said CBSNews, echoing Fox News’ [“Sen Amy Klobuchar defends tone of Democratic National Convention”](https://www.youtube.com/watch?v=u2xBkRSmVJU) the previous week.  To each news outlet, one of the parties had distinguished itself by tone, which is certainly in the eye of the beholder.  How much do actual words play in distinguishing one party from another?  With a model that pays no attention to context or phrasing, can we still tell the difference between the speech of a Republican and that of a Democrat? What can we learn from the terms that define partisan speech? In this project, I begin to answer this question through natural language processing.
 
 **The data:**
